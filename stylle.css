@@ -1,0 +1,22 @@
+body{
+    width: 100dvw;
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+    justify-content: center;
+
+}            
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}  
+
+
+.topo{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: crimson;
+}
